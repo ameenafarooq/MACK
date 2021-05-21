@@ -1,0 +1,2 @@
+# MACK
+MAnga-jaCKfruit classifier
