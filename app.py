@@ -1,5 +1,5 @@
 import streamlit as st
-from keras.models import model_from_json
+from tensorflow.keras.models import model_from_json
 #import tensorflow as tf
 
 st.set_option('deprecation.showfileUploaderEncoding',False)
